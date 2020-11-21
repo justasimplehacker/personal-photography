@@ -1,6 +1,6 @@
 # Personal-photography porfolio
 
-
+![GitHub Logo](/assets/kaung-myat-min-K9pqtAx2EoA-unsplash.jpg)
 
 Just a show case of my photographs, and the places where they have been reused. 
 
