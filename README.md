@@ -2,7 +2,9 @@
 
 ![GitHub Logo](/assets/kaung-myat-min-K9pqtAx2EoA-unsplash.jpg)
 
-Just a show case of my photographs, and the places where they have been reused. 
+
+
+***Just a show case of my photographs, and the places where they have been reused.***
 
 <h2> Just a freelance photographer who enjoys landscapes and potraits. </h2>
 
@@ -26,3 +28,5 @@ Just a show case of my photographs, and the places where they have been reused.
 * https://medium.com/@mishra.kamal/innovation-and-patent-mindset-in-data-ai-62a4be5cd85a
 
 * https://thetonkinese.medium.com/15th-august-2020-5674bf31dfbd
+
+![GitHub Logo](/assets/kaung-myat-min-bCAOV2Sg7Es-unsplash.jpg)
